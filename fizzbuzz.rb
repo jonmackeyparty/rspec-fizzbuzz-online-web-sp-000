@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(int)
-  if int % 3 == 1
+  if int / 3 == 1
     return "Fizz"
   elsif int % 5 == 1  
     return "Buzz"
